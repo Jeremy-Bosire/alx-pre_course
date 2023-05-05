@@ -1,0 +1,1 @@
+This directory contains contents of the git project.
